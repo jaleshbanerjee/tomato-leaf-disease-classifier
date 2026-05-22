@@ -1,0 +1,25 @@
+{
+  "test_accuracy": 0.9270833134651184,
+  "test_precision": 0.9308900237083435,
+  "test_recall": 0.9260416626930237,
+  "per_class_metrics": {
+    "Healthy": {
+      "precision": 0.8762376237623762,
+      "recall": 0.8045454545454546,
+      "f1-score": 0.8388625592417062,
+      "support": 220.0
+    },
+    "Early Blight": {
+      "precision": 0.9007444168734491,
+      "recall": 0.937984496124031,
+      "f1-score": 0.9189873417721519,
+      "support": 387.0
+    },
+    "Late Blight": {
+      "precision": 0.9859154929577465,
+      "recall": 0.9915014164305949,
+      "f1-score": 0.9887005649717514,
+      "support": 353.0
+    }
+  }
+}
